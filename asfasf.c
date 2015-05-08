@@ -17,9 +17,13 @@ int main()
 
 	while 1
 	return 0;
+<<<<<<< HEAD
 	//mm
 
 
 
 	//mmm
+=======
+	//sfhdfh
+>>>>>>> dfhbfgnmfsym
 }
