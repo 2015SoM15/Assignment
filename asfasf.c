@@ -12,6 +12,10 @@ return 0;
 int main()
 {
 	printf("md는 우리의 적"\n);
+
+
+
+	while 1
 	return 0;
 
 }
